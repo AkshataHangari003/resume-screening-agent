@@ -76,18 +76,28 @@ def generate_reason(
 ) -> str:
     """Generate a concise explanation for the ranking."""
 
-    if missing_skills:
-        missing_text = ", ".join(
-            missing_skills
-        )
+    matched_count = len(matched_skills)
+    missing_count = len(missing_skills)
+    total_skills = matched_count + missing_count
 
+    if total_skills > 0:
+        skill_match_percentage = (
+            matched_count / total_skills
+        ) * 100
+    else:
+        skill_match_percentage = 0.0
+
+    if missing_skills:
+        missing_text = ", ".join(missing_skills)
         skill_reason = (
-            f"Missing required skills: "
-            f"{missing_text}."
+            f"Required skill match: "
+            f"{skill_match_percentage:.2f}%. "
+            f"Missing required skills: {missing_text}."
         )
     else:
         skill_reason = (
-            "Matches all required skills."
+            "Required skill match: 100%. "
+            "No required skills are missing."
         )
 
     return (

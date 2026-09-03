@@ -29,6 +29,8 @@ KNOWN_SKILLS = [
     "HTML",
     "CSS",
     "JavaScript",
+    "Database",
+    "Problem-Solving",
 ]
 
 
