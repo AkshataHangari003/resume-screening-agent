@@ -1,0 +1,17 @@
+NAME: Kavya Nair
+
+EDUCATION:
+Master of Computer Applications
+
+EXPERIENCE:
+Fresh graduate
+
+SKILLS:
+Python, Machine Learning, Pandas, NumPy, SQL, Git, Scikit-learn
+
+PROJECTS:
+Built a machine learning model for customer churn prediction.
+Performed data preprocessing and analysis using Python.
+
+SUMMARY:
+MCA graduate with strong Python and machine learning knowledge.

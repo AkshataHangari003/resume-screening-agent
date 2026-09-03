@@ -1,0 +1,17 @@
+NAME: Priya Sharma
+
+EDUCATION:
+Master of Computer Applications (MCA)
+
+EXPERIENCE:
+6 months software development internship
+
+SKILLS:
+Python, Java, SQL, Git, GitHub, REST APIs, FastAPI, Data Structures, Algorithms, OOP, PostgreSQL
+
+PROJECTS:
+Built a FastAPI-based student management REST API using Python and PostgreSQL.
+Developed authentication and CRUD APIs.
+
+SUMMARY:
+Junior software developer with experience in Python, REST APIs, databases and Git.

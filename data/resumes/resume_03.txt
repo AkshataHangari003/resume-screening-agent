@@ -1,0 +1,17 @@
+NAME: Ananya Singh
+
+EDUCATION:
+Master of Computer Applications
+
+EXPERIENCE:
+Fresh graduate
+
+SKILLS:
+Python, SQL, Git, Data Structures, Algorithms, OOP, HTML, CSS, JavaScript
+
+PROJECTS:
+Developed a Python-based library management system.
+Created database queries using SQL.
+
+SUMMARY:
+Recent MCA graduate interested in software development and backend engineering.

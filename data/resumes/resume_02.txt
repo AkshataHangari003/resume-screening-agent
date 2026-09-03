@@ -1,0 +1,17 @@
+NAME: Rahul Kumar
+
+EDUCATION:
+Bachelor of Engineering in Computer Science
+
+EXPERIENCE:
+1 year software developer experience
+
+SKILLS:
+Java, Python, SQL, Git, GitHub, REST APIs, Spring Boot, Data Structures, Algorithms, OOP, MySQL
+
+PROJECTS:
+Developed REST APIs using Java Spring Boot and MySQL.
+Worked on debugging and maintaining backend applications.
+
+SUMMARY:
+Software developer experienced in backend development, APIs, databases and version control.

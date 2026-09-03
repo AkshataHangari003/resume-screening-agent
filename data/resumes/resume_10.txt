@@ -1,0 +1,17 @@
+NAME: Aditya Rao
+
+EDUCATION:
+Master of Computer Applications
+
+EXPERIENCE:
+Fresh graduate
+
+SKILLS:
+Python, Java, SQL, GitHub, REST APIs, FastAPI, Data Structures, Algorithms, OOP
+
+PROJECTS:
+Built a task management application using Python and FastAPI.
+Created REST endpoints and integrated a SQL database.
+
+SUMMARY:
+MCA graduate with strong programming fundamentals and backend development skills.

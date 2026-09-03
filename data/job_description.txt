@@ -1,0 +1,46 @@
+JOB TITLE: Junior Software Engineer
+
+COMPANY: TechNova Solutions
+
+LOCATION: Bengaluru, India
+
+JOB TYPE: Full-time
+
+ABOUT THE ROLE:
+We are looking for a Junior Software Engineer to join our development team. The candidate will work on building, testing, debugging, and maintaining software applications.
+
+REQUIRED SKILLS:
+- Python
+- Java
+- SQL
+- Git and GitHub
+- REST APIs
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Basic knowledge of databases
+- Problem-solving skills
+
+EDUCATION:
+- Bachelor's or Master's degree in Computer Science, Information Technology, Computer Applications, or a related field.
+
+EXPERIENCE:
+- 0-2 years of software development experience.
+- Fresh graduates with relevant academic projects and internships are encouraged to apply.
+
+RESPONSIBILITIES:
+- Develop and maintain software applications.
+- Write clean and maintainable code.
+- Debug and troubleshoot software issues.
+- Work with REST APIs and databases.
+- Participate in code reviews.
+- Use Git for version control.
+- Collaborate with other developers.
+- Write basic technical documentation.
+
+PREFERRED SKILLS:
+- FastAPI or Flask
+- React.js
+- Docker
+- AWS
+- Machine Learning
+- Unit testing

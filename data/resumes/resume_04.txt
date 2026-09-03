@@ -1,0 +1,18 @@
+NAME: Vikram Patel
+
+EDUCATION:
+Bachelor of Technology in Information Technology
+
+EXPERIENCE:
+2 years software engineer experience
+
+SKILLS:
+Python, Java, SQL, Git, REST APIs, Docker, AWS, FastAPI, PostgreSQL, Unit Testing
+
+PROJECTS:
+Built production REST APIs using Python and FastAPI.
+Deployed applications using Docker and AWS.
+Implemented automated unit tests.
+
+SUMMARY:
+Software engineer with two years of backend development experience.

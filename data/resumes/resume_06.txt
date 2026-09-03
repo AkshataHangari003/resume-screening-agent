@@ -1,0 +1,17 @@
+NAME: Arjun Mehta
+
+EDUCATION:
+Bachelor of Engineering in Computer Science
+
+EXPERIENCE:
+8 months software development internship
+
+SKILLS:
+Python, SQL, Java, Git, REST APIs, Flask, Data Structures, OOP, MySQL
+
+PROJECTS:
+Created a Flask REST API for an inventory management system.
+Worked with SQL databases and Git.
+
+SUMMARY:
+Junior developer with internship experience in Python backend development.

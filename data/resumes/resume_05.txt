@@ -1,0 +1,17 @@
+NAME: Sneha Reddy
+
+EDUCATION:
+Bachelor of Computer Applications
+
+EXPERIENCE:
+Fresh graduate
+
+SKILLS:
+JavaScript, React, HTML, CSS, MongoDB, Git
+
+PROJECTS:
+Built a React e-commerce website.
+Created responsive user interfaces.
+
+SUMMARY:
+Frontend-focused graduate interested in web development.

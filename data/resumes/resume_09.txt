@@ -1,0 +1,17 @@
+NAME: Meera Joshi
+
+EDUCATION:
+Bachelor of Technology in Computer Science
+
+EXPERIENCE:
+1 year software development experience
+
+SKILLS:
+Java, Python, SQL, Git, REST APIs, Data Structures, OOP, Spring Boot, PostgreSQL
+
+PROJECTS:
+Developed backend services using Java and Spring Boot.
+Created REST APIs and worked with PostgreSQL databases.
+
+SUMMARY:
+Backend developer with experience in Java, Python, APIs and relational databases.
